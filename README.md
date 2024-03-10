@@ -20,7 +20,7 @@ To run this application on your local machine, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/SohamAmipara/Code-Refactoring-and-Bug-Fixing-in-Web-Applications.git
+   git clone https://github.com/ashfaq-khan14/Code-Refactoring-and-Bug-Fixing-in-Web-Applications-.git.git
    ```
 2. Navigate to the project directory:
    ```
