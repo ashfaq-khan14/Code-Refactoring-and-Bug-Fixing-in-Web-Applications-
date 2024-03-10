@@ -47,9 +47,9 @@ Contributions to this project are welcome! Feel free to fork the repository, mak
 
 I'm always open to connecting with fellow developers and tech enthusiasts. Reach out to me on:
 
-- [LinkedIn](https://www.linkedin.com/in/soham-amipara/) 💼
-- [Twitter](https://twitter.com/SB_Amipara/) 🐦
-- [Medium](https://medium.com/@soham.amipara91/) 📖
+- [LinkedIn](www.linkedin.com/in/ashfaqbinsalim) 💼
+- [Portfolio](https://ashfaqkhan1419600.wixsite.com/mohdashfa) 🐦
+- [Medium](https://medium.com/@ashfaqkhan14196) 📖
 
 For any queries or discussions related to this project or data science in general, don't hesitate to contact me at soham.amipara91@gmail.com 📧.
 
