@@ -51,7 +51,7 @@ I'm always open to connecting with fellow developers and tech enthusiasts. Reach
 - [Portfolio](https://ashfaqkhan1419600.wixsite.com/mohdashfa) 🐦
 - [Medium](https://medium.com/@ashfaqkhan14196) 📖
 
-For any queries or discussions related to this project or data science in general, don't hesitate to contact me at soham.amipara91@gmail.com 📧.
+For any queries or discussions related to this project or data science in general, don't hesitate to contact me at ashfaqkhan1419600@gmail.com 📧.
 
 Happy coding! 💻
 
